@@ -49,7 +49,7 @@ else
 	System.out.println(a);
 					
 nu se poate afisa nimic deoarece "a" este incrementat la valoarea "4" in prima functie "if", 
-iar la al doilea "if" nu este indeplinita conditia deoarece "4" nu este mai mic decat "4"  
+iar la al doilea "if" nu este indeplinita conditia deoarece "4" nu este mai mic decat "4"   
  	
 				}
 		
@@ -101,7 +101,31 @@ System.out.println("N! este: " + n);
 //***********************************************************
 
 //********************Tema 6*********************************			
-		
+
+			/*
+int a = 1;
+int b = 3;
+
+
+if (a > b) {
+System.out.println(a);
+}
+else if (a<b) {	
+	
+	for(int i = 1;i < 10; ++i)
+	
+System.out.println(i);			
+}
+
+			 */	
+//***********************************************************
+
+//********************Tema 7*********************************	de realizat Luni 03.02.
+			
+			
+			
+			
+			
 		
 		
 	}
