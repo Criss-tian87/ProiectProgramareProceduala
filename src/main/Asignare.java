@@ -49,7 +49,7 @@ else
 	System.out.println(a);
 					
 nu se poate afisa nimic deoarece "a" este incrementat la valoarea "4" in prima functie "if", 
-iar la al doilea "if" nu este indeplinita conditia deoarece "4" nu este mai mic decat "4" 
+iar la al doilea "if" nu este indeplinita conditia deoarece "4" nu este mai mic decat "4"  
  	
 				}
 		
